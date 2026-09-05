@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="chaines-tv.orange.fr" site_id="531" lang="en" xmltv_id="LuxeTV.lu@SD">LUXE TV</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90558" lang="fr" xmltv_id="BeijingSatelliteTV.cn@SD">BEIJING TV</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90551" lang="fr" xmltv_id="CCTV4Europe.cn@SD">CCTV 4</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90553" lang="fr" xmltv_id="PhoenixInfoNewsChannel.hk@SD">PHOENIX INFONEWS</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90556" lang="fr" xmltv_id="ZhejiangInternationalChannel.cn@SD">ZHEJIANG INTERNATIONAL TV</channel>
+  <channel site="content.astro.com.my" site_id="115" lang="ms" xmltv_id="8TV.my@SD">8TV</channel>
+  <channel site="content.astro.com.my" site_id="382" lang="en" xmltv_id="PhoenixChineseChannel.hk@SD">Phoenix Chinese Channel HD</channel>
+  <channel site="content.astro.com.my" site_id="384" lang="en" xmltv_id="TVBSAsia.tw@SD">TVBS Asia HD</channel>
+  <channel site="content.astro.com.my" site_id="385" lang="en" xmltv_id="CCTV4Asia.cn@SD">CCTV4 HD</channel>
+  <channel site="content.astro.com.my" site_id="396" lang="ms" xmltv_id="TV2.my@SD">TV2 HD</channel>
+  <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn@SD">CGTN HD</channel>
+  <channel site="cubmu.com" site_id="241" lang="id" xmltv_id="DAAITV.id@SD">DAAI TV</channel>
+  <channel site="cubmu.com" site_id="232" lang="id" xmltv_id="Thrill.hk@SD">Thrill</channel>
+  <channel site="distro.tv" site_id="95226" lang="en" xmltv_id="CCTV4America.cn@SD">CCTV-4</channel>
+  <channel site="watch.whaletvplus.com" site_id="989293714931712086" lang="en" xmltv_id="CGTNGlobalBiz.cn@SD">Global Biz</channel>
+  <channel site="watch.whaletvplus.com" site_id="989293714931712088" lang="en" xmltv_id="ChinaTravel.cn@SD">China Travel</channel>
+  <channel site="watch.whaletvplus.com" site_id="989293714931712087" lang="en" xmltv_id="DiscoveringChina.cn@SD">Discovering China</channel>
+  <channel site="plex.tv" site_id="60995eb136c72d002da7bbcb" lang="en" xmltv_id="LoveNature.ca@SD">Love Nature</channel>
+  <channel site="gatotv.com" site_id="babyfirst_tv" lang="es" xmltv_id="BabyFirst.us@US">Canal BabyFirst TV</channel>
+  <channel site="m.tv.sms.cz" site_id="CCTV9" lang="en" xmltv_id="CCTV9.cn@SD">CCTV9</channel>
+  <channel site="maxstream.tv" site_id="0_jqlzd1wf" lang="id" xmltv_id="KIX.hk@SD">KIX</channel>
+  <channel site="maxstream.tv" site_id="0_kp6grg1f" lang="id" xmltv_id="TVBSNews.tw@SD">TVBS News</channel>
+  <channel site="mewatch.sg" site_id="97104" lang="en" xmltv_id="Channel8.sg@SD">Channel 8</channel>
+  <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
+  <channel site="mewatch.sg" site_id="571966" lang="en" xmltv_id="DragonTVInternational.cn@SD">Dragon TV</channel>
+  <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
+  <channel site="nowplayer.now.com" site_id="541" lang="en" xmltv_id="CCTV1.cn@SD">CCTV-1</channel>
+  <channel site="nowplayer.now.com" site_id="545" lang="en" xmltv_id="CCTV13.cn@SD">CCTV-13</channel>
+  <channel site="nowplayer.now.com" site_id="540" lang="en" xmltv_id="ShenzhenSatelliteTV.cn@SD">Shenzhen TV</channel>
+  <channel site="rthk.hk" site_id="31" lang="en" xmltv_id="RTHKTV31.hk@SD">TV 31</channel>
+  <channel site="rthk.hk" site_id="32" lang="en" xmltv_id="RTHKTV32.hk@SD">TV 32</channel>
+  <channel site="rthk.hk" site_id="33" lang="en" xmltv_id="RTHKTV33.hk@SD">TV 33</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="3" lang="ms" xmltv_id="Okey.my@SD">Okey</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="7" lang="ms" xmltv_id="BeritaRTM.my@SD">Berita RTM</channel>
+  <channel site="singtel.com" site_id="5585" lang="en" xmltv_id="CelestialMovies.hk@SD">Celestial Movies (HD)</channel>
+  <channel site="tv.cctv.com" site_id="anhui" lang="zh" xmltv_id="AnhuiTV.cn@SD">安徽卫视</channel>
+  <channel site="tv.cctv.com" site_id="btvchild" lang="zh" xmltv_id="BRTVKakuChildrensChannel.cn@SD">BTV卡酷少儿</channel>
+  <channel site="tv.cctv.com" site_id="cctv2" lang="zh" xmltv_id="CCTV2.cn@SD">CCTV 2</channel>
+  <channel site="tv.cctv.com" site_id="cctv3" lang="zh" xmltv_id="CCTV3.cn@SD">CCTV 3</channel>
+  <channel site="tv.cctv.com" site_id="cctv5plus" lang="zh" xmltv_id="CCTV5Plus.cn@SD">CCTV 5+</channel>
+  <channel site="tv.cctv.com" site_id="cctv6" lang="zh" xmltv_id="CCTV6.cn@SD">CCTV 6</channel>
+  <channel site="tv.cctv.com" site_id="cctv7" lang="zh" xmltv_id="CCTV7.cn@SD">CCTV 7</channel>
+  <channel site="tv.cctv.com" site_id="cctv8" lang="zh" xmltv_id="CCTV8.cn@SD">CCTV 8</channel>
+  <channel site="tv.cctv.com" site_id="cctv10" lang="zh" xmltv_id="CCTV10.cn@SD">CCTV 10</channel>
+  <channel site="tv.cctv.com" site_id="cctv11" lang="zh" xmltv_id="CCTV11.cn@SD">CCTV 11</channel>
+  <channel site="tv.cctv.com" site_id="cctv12" lang="zh" xmltv_id="CCTV12.cn@SD">CCTV 12</channel>
+  <channel site="tv.cctv.com" site_id="cctv15" lang="zh" xmltv_id="CCTV15.cn@SD">CCTV 15</channel>
+  <channel site="tv.cctv.com" site_id="cetv1" lang="zh" xmltv_id="CETV1.cn@SD">CETV 1</channel>
+  <channel site="tv.cctv.com" site_id="cetv2" lang="zh" xmltv_id="CETV2.cn@SD">CETV 2</channel>
+  <channel site="tv.cctv.com" site_id="guangdong" lang="zh" xmltv_id="GuangdongSatelliteTV.cn@SD">广东卫视</channel>
+  <channel site="tv.cctv.com" site_id="guizhou" lang="zh" xmltv_id="GuizhouTV.cn@SD">贵州卫视</channel>
+  <channel site="tv.cctv.com" site_id="hebei" lang="zh" xmltv_id="HebeiTV.cn@SD">河北卫视</channel>
+  <channel site="tv.cctv.com" site_id="heilongjiang" lang="zh" xmltv_id="HeilongjiangTV.cn@SD">黑龙江卫视</channel>
+  <channel site="tv.cctv.com" site_id="hunan" lang="zh" xmltv_id="HunanTV.cn@SD">湖南卫视</channel>
+  <channel site="tv.cctv.com" site_id="jiangsu" lang="zh" xmltv_id="JiangsuSatelliteTV.cn@SD">江苏卫视</channel>
+  <channel site="tv.cctv.com" site_id="jiangxi" lang="zh" xmltv_id="JiangxiTV.cn@SD">江西卫视</channel>
+  <channel site="tv.cctv.com" site_id="jingpin" lang="zh" xmltv_id="CCTVCultureofQuality.cn@SD">CCTV央视文化精品</channel>
+  <channel site="tv.cctv.com" site_id="liaoning" lang="zh" xmltv_id="LiaoningTV.cn@SD">辽宁卫视</channel>
+  <channel site="tv.cctv.com" site_id="ningxia" lang="zh" xmltv_id="NingxiaSatelliteChannel.cn@SD">宁夏卫视</channel>
+  <channel site="tv.cctv.com" site_id="qinghai" lang="zh" xmltv_id="QinghaiTV.cn@SD">青海卫视</channel>
+  <channel site="tv.cctv.com" site_id="shandong" lang="zh" xmltv_id="ShandongTV.cn@SD">山东卫视</channel>
+  <channel site="tv.cctv.com" site_id="shijiedili" lang="zh" xmltv_id="CCTVWorldGeography.cn@SD">CCTV世界地理</channel>
+  <channel site="tv.cctv.com" site_id="shishang" lang="zh" xmltv_id="CCTVWomensFashion.cn@SD">CCTV女性时尚</channel>
+  <channel site="tv.cctv.com" site_id="tianjin" lang="zh" xmltv_id="TianjinTV.cn@SD">天津卫视</channel>
+  <channel site="tv.cctv.com" site_id="zhejiang" lang="zh" xmltv_id="ZhejiangSatelliteTV.cn@SD">浙江卫视</channel>
+  <channel site="tvtv.us" site_id="11253" lang="en" xmltv_id="NTDTV.us@East">NTD TV</channel>
+  <channel site="visionplus.id" site_id="00000000000000000069" lang="en" xmltv_id="FTV.tw@SD">Formosa</channel>
+</channels>
