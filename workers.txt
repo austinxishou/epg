@@ -1,2 +1,0 @@
-worker-9dd4.onrender.com
-raw.githubusercontent.com/StrangeDrVN/epg/public/output
